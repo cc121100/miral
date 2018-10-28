@@ -13,6 +13,7 @@
         <module>eureka-server</module>
         <module>testmodel</module>
         <module>ribbon-service</module>
+        <module>feign-service</module>
     </modules>
 
     <parent>
